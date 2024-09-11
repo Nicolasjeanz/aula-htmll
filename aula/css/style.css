@@ -20,3 +20,9 @@ li {
 .grupoteste {
     color: cyan;
 }
+#senai {
+    color: blueviolet;
+}
+#senai:hover {
+    color: blue;
+}
